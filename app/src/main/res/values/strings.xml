@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">M-Expense</string>
+
+    <string name="url">http://gillwindallolympicapp.appspot.com/madolympicservlet</string>
+
+    <string name="json">{\"eventName\":\"mens 100 metres\", \"resultList\":[{\"medalColour\":\"bronze\",\"athleteName\":\"gatlin\"},{\"medalColour\":\"silver\",\"athleteName\":\"blake\"},{\"medalColour\":\"gold\",\"athleteName\":\"bolt\"}]} </string>
+
+
+</resources>
